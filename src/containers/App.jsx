@@ -1,6 +1,6 @@
 import React from "react"
-import { Title } from "../assets/styles/App"
+import "../assets/styles/App.scss"
 
-const App = () => <Title>Hola Mundo!</Title>
+const App = () => <h1>Hola Mundo!</h1>
 
 export default App
